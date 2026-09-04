@@ -1,0 +1,6 @@
+{
+  "name": "شهر توانا - بازار پوشاک بانوان",
+  "description": "اکوسیستم آفرینش | شهر جدید نیومتاورسیتی جهان | توان استیج (FBNM) - سامانه تخصصی بنکداران و تولیدکنندگان پوشاک بانوان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
